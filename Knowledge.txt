@@ -1,37 +1,56 @@
-Codex
-Codices
-Grimoires
-Spell Book
+Codex, Codices
+Grimoires, Spell Book
 Treatise
 Tablet
 Corpus
 Leechbooks
+incantation bowls
+pyramid texts
+coffin texts
+True Name
+Words of Power
+Magic Circles
 
+Occult (Knowledge)
+    Sigils, Linguistics, Runes
+    Elements, Energies, and Spirits
+    Mathematics, Numerology and Logic
+    Astrology, Demonology, Theology
+    Alchemy, Enchantment
+    Ritual Spellcraft
 
+Spheres of Influence
+    Magic(Intrinsic)
+    Forces
+    Matter
+    Space
+    Time
+    Spirit
+    Life
+    Death
+    Mind
 
-Folklore
-History
-
-
-Elements
-Numerology
-Herbology
-Animolgy
+Terrae Mysteria et Naturae Secreta
+    Physics
+    Minerology
+    Botany
+    Zoology
+    Climatology
 Medecine
-Botany
-Minerology
-Necromancy
-Divination
+    Human Anatomy
+    Pathology
+    Internal Medecine
+    Surgery
+    Dentistry
+    Dermatology
 
-Alchemy
-Demonology
-Astrology
-Astralmagic
-Spirit Realm
+Cartography
+Linguistics
 
-Healing Magic
 
-Ashrak
+
+(Important Mages of the Past)
+Ashrak the Unbound
 Solomon Seals-Sigils-Keys
 Hermes Trismegistus
 Zoroaster
@@ -66,7 +85,81 @@ Picatrix  (The goal of the wise)
 	 a 400-page book of magic and astrology originally written in Arabic under the title Ghāyat al-Ḥakīm (Arabic: غاية الحكيم), which most scholars assume was originally written in the middle of the 11th century
 	 
 	 Picatrix is a composite work that synthesizes older works on magic and astrology. One of the most influential interpretations suggests it is to be regarded as a "handbook of talismanic magic".[4] Another researcher summarizes it as "the most thorough exposition of celestial magic in Arabic", indicating the sources for the work as "Arabic texts on Hermeticism, Sabianism, Ismailism, astrology, alchemy and magic produced in the Near East in the ninth and tenth centuries A.D."
-	 
+
+Grand Grimoire (Red Dragon)
+    The "introductory chapter" was authored by someone named Antonio Venitiana del Rabina who supposedly gathered his information from original writings of King Solomon. Much of material of this grimoire derives from the Key of Solomon and the Lesser Key of Solomon, pseudepigraphical grimoires attributed to King Solomon.
+
+    The work is divided into two books.[2] The first book contains instructions for summoning a demon and for the construction of tools with which to force the demon to do one's bidding. The second book is divided further into two parts: the Sanctum Regnum and Secrets, de L'Art Magique du Grand Grimoire ("Secrets, of the magic art of the Grand Grimoire"). The Sanctum Regnum contain instructions for making a pact with the demon, allowing one to command the spirit without the tools required by book one, but at greater risk. Secrets contains simple spells and rituals one can employ after having performed the ritual of the first book. Some editions contain a short text between these two parts, Le Secret Magique, où le Grand Art de pouvoir parler aux Morts (The Magic Secret, or the Grand Art of being able to speaking with the dead), dealing with necromancy.
+
+
+Callimachus' system divided works into six genres and five sections of prose: rhetoric, law, epic, tragedy, comedy, lyric poetry, history, medicine, mathematics, natural science, and miscellanies. Each category was alphabetized by author.
+
+Les Prophéties (The Prophecies)
+    is a collection of prophecies by French physician Nostradamus, the first edition of which appeared in 1555 by the publishing house Macé Bonhomme.
+
+
+The Book of the Dead (Ancient Egyptian: 𓂋𓏤𓈒𓈒𓈒𓏌𓏤𓉐𓂋𓏏𓂻𓅓𓉔𓂋𓅱𓇳𓏤,  is an ancient Egyptian funerary text generally written on papyrus and used from the beginning of the New Kingdom (around 1550 BCE) to around 50 BCE.[1] The original Egyptian name for the text, transliterated, is translated as Book of Coming Forth by Day[3] or Book of Emerging Forth into the Light.[citation needed] "Book" is the closest term to describe the loose collection of texts consisting of a number of magic spells intended to assist a dead person's journey through the Duat, or underworld, and into the afterlife and written by many priests over a period of about 1,000 years.
+
+The Necronomicon, also referred to as the Book of the Dead, or under a purported original Arabic title of Kitab al-Azif, is a fictional grimoire (textbook of magic) appearing in stories by the horror writer H. P. Lovecraft and his followers. It was first mentioned in Lovecraft's 1924 short story "The Hound",[1] written in 1922, though its purported author, the "Mad Arab" Abdul Alhazred, had been quoted a year earlier in Lovecraft's "The Nameless City".[2] Among other things, the work contains an account of the Old Ones, their history, and the means for summoning them.
+
+A Book of Shadows is a book containing religious text and instructions for magical rituals found within the Neopagan religion of Wicca.
+
+
+
+######################################################
+
+Mundane (Knowledge)
+    Indices
+    Philosophy, Ethics, Religion
+    Heraldry, Geneology, Biography
+    History
+    Geography, Folklore, Manners and Customs
+    Sociology, Statistics, Economics
+    Politics, Administration, Law
+    Music, Drawing, Painting, Sculpture, Architecture
+    Language
+Agriculture
+    Horticulture
+    Forestry
+    Animal Husbandry
+    Fishing
+    Hunting
+Technology
+    Civil Engineering
+    Hydraulic Engineering
+    Roadway Engineering
+    Bridge Construction
+    Building Construction
+    Mechanical Engineering
+    Carriage & Wagon Construction
+    Mining
+    Manufacturing
+    Home Economics
+Military Science
+    Armie Organization
+    Military Administration
+    Military Logistics
+    Infantry
+    Cavalry
+    Artiliry
+    Military Engineering
+Naval Science
+    Naval Organization
+    Administration
+    Logistics
+    Seamen
+    Marines
+    Ordnance
+    Navigation
+    Shipbuilding
+Library Science
+    Books, Writing, Book INdustrys, Trade, Paleography Bibliography
+
+Psychology
+
+https://en.wikipedia.org/wiki/Library_of_Congress_Classification
+https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
+
 	 
 	
 

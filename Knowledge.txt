@@ -1,11 +1,8 @@
-Codex, Codices
-Grimoires, Spell Book
-Treatise
-Tablet
-Herbal
+Treatise, Codex, Grimoire, Spell Book
+Herbal(Codex)
+Leechbook(Codex)
 Corpus
-Leechbooks
-incantation bowls
+
 pyramid texts
 coffin texts
 True Name
@@ -13,8 +10,15 @@ Words of Power
 Magic Circles
 Locks, Barriers, Shields
 
+Languages
+    Symbol Set (Runes)
+    Lexicon
+    Syntax, Morphology, Grammar
+    Semantics
+    Phonetics
+
 Occult (Knowledge)
-    Sigils, Linguistics, Runes
+    Sigils and Language of Magic
     Elements, Energies, and Spirits
     Mathematics, Numerology and Logic
     Astrology, Demonology, Theology
@@ -38,7 +42,7 @@ Terrae Mysteria et Naturae Secreta
     Botany
     Zoology
     Climatology
-Medecine
+Medicine
     Human Anatomy
     Pathology
     Internal Medecine
@@ -52,6 +56,8 @@ Linguistics
 
 
 (Important Mages of the Past)
+Ashrak the Unbound
+Jabir
 Zosimos of Panopolis
 Pseudo-Democritus
 Hermes Trismegistus
@@ -59,63 +65,14 @@ Bolus of Mendes
 Theophrastus
 Stephanus of Alexandria
 Mesue Maior
-Abū Mūsā Jābir ibn Ḥayyān
-Ashrak the Unbound
+
 
 Solomon Seals-Sigils-Keys
 Zoroaster
 
 
-How to create talismans
-how to create spells, charms and divination
 
-how to summon or invoke
 The only contents found in a grimoire would be information on spells, rituals, the preparation of magical tools, and lists of ingredients and their magical correspondences
-
-
-The Magus
-	handbook of the occult and ceremonial magic compiled by occultist Francis Barrett published in 1801.
-	
-	We have collected out of the works of the most famous magicians, such as Zoroaster, Hermes, Apollonius, Simon of the Temple, Trithemius, Agrippa, Porta (the Neapolitan), Dee, Paracelsus, Roger Bacon, and a great many others...
-
-Three Books of Occult Philosophy (De Occulta Philosophia libri III) 
-	is Heinrich Cornelius Agrippa's study of occult philosophy, acknowledged as a significant contribution to the Renaissance philosophical discussion concerning the powers of magic, and its relationship with religion.
-	
-	The three books deal with elemental, celestial and intellectual magic. The books outline the four elements, astrology, Kabbalah, numerology, angels, names of God, the virtues and relationships with each other as well as methods of utilizing these relationships and laws in medicine, scrying, alchemy, ceremonial magic, origins of what are from the Hebrew, Greek and Chaldean context. 
-	
-Hermetica
-	 The "Hermetic tradition" consequently refers to alchemy, magic, astrology, and related subjects. The texts are usually divided into two categories: the philosophical and the technical hermetica. The former deals mainly with philosophy, and the latter with practical magic, potions, and alchemy. The expression "hermetically sealed" comes from the alchemical procedure to make the Philosopher's Stone. This required a mixture of materials to be placed in a glass vessel which was sealed by fusing the neck closed, a procedure known as the Seal of
-	 Hermes. The vessel was then heated for 30 to 40 days.[23]
-	 
-Magia Naturalis (in English, Natural Magic) 
-	is a work of popular science by Giambattista della Porta first published in Naples in 1558.
-
-	Natural Magic was revised and considerably expanded throughout the author's lifetime; its twenty books (Naples 1589) include observations upon geology, optics, medicines, poisons, cooking, metallurgy, magnetism, cosmetics, perfumes, gunpowder, and invisible writing. 
-	
-Picatrix  (The goal of the wise)
-	 a 400-page book of magic and astrology originally written in Arabic under the title Ghāyat al-Ḥakīm (Arabic: غاية الحكيم), which most scholars assume was originally written in the middle of the 11th century
-	 
-	 Picatrix is a composite work that synthesizes older works on magic and astrology. One of the most influential interpretations suggests it is to be regarded as a "handbook of talismanic magic".[4] Another researcher summarizes it as "the most thorough exposition of celestial magic in Arabic", indicating the sources for the work as "Arabic texts on Hermeticism, Sabianism, Ismailism, astrology, alchemy and magic produced in the Near East in the ninth and tenth centuries A.D."
-
-Grand Grimoire (Red Dragon)
-    Much of material of this grimoire derives from the Key of Solomon and the Lesser Key of Solomon, pseudepigraphical grimoires attributed to King Solomon.
-
-    The work is divided into two books. The first book contains instructions for summoning a demon and for the construction of tools with which to force the demon to do one's bidding. The second book is divided further into two parts: the Sanctum Regnum and Secrets, de L'Art Magique du Grand Grimoire ("Secrets, of the magic art of the Grand Grimoire"). The Sanctum Regnum contain instructions for making a pact with the demon, allowing one to command the spirit without the tools required by book one, but at greater risk. Secrets contains simple spells and rituals one can employ after having performed the ritual of the first book.
-
-
-Callimachus' system divided works into six genres and five sections of prose: rhetoric, law, epic, tragedy, comedy, lyric poetry, history, medicine, mathematics, natural science, and miscellanies. Each category was alphabetized by author.
-
-Les Prophéties (The Prophecies)
-    is a collection of prophecies by French physician Nostradamus, the first edition of which appeared in 1555 by the publishing house Macé Bonhomme.
-
-
-The Book of the Dead (Ancient Egyptian: 𓂋𓏤𓈒𓈒𓈒𓏌𓏤𓉐𓂋𓏏𓂻𓅓𓉔𓂋𓅱𓇳𓏤,  is an ancient Egyptian funerary text generally written on papyrus and used from the beginning of the New Kingdom (around 1550 BCE) to around 50 BCE.[1] The original Egyptian name for the text, transliterated, is translated as Book of Coming Forth by Day[3] or Book of Emerging Forth into the Light.[citation needed] "Book" is the closest term to describe the loose collection of texts consisting of a number of magic spells intended to assist a dead person's journey through the Duat, or underworld, and into the afterlife and written by many priests over a period of about 1,000 years.
-
-The Necronomicon, also referred to as the Book of the Dead, or under a purported original Arabic title of Kitab al-Azif, is a fictional grimoire (textbook of magic) appearing in stories by the horror writer H. P. Lovecraft and his followers. It was first mentioned in Lovecraft's 1924 short story "The Hound",[1] written in 1922, though its purported author, the "Mad Arab" Abdul Alhazred, had been quoted a year earlier in Lovecraft's "The Nameless City".[2] Among other things, the work contains an account of the Old Ones, their history, and the means for summoning them.
-
-A Book of Shadows is a book containing religious text and instructions for magical rituals found within the Neopagan religion of Wicca.
-
-
 
 ######################################################
 
@@ -171,7 +128,10 @@ Psychology
 https://en.wikipedia.org/wiki/Library_of_Congress_Classification
 https://en.wikipedia.org/wiki/Outline_of_academic_disciplines
 
-	 
+
+
+https://omnika.conscious.ai/library/the-frequency-of-latin-words-and-their-endings-p-b-diederich-1939
+https://dcc.dickinson.edu/vocab/core-vocabulary
 	
 
 	 

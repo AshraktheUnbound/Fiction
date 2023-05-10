@@ -1,0 +1,106 @@
+Emperors Tarot
+---------------------------------------------
+[Majoris Personae]
+01) The God Emperor     - Power
+02) The Imperium        - Order
+03) High Lords of Terra - Control, Stability, Authority
+04) Constantine Valdor  - Excellence
+05) Sister of Silence   - Meditation, Introspection
+06) Belisarius Cawl     - Diligence, Creativity
+07) The Sigilite        - Sacrifice, Observation, Metaphysical
+
+08) The Great Eye       - Chaos, Disorder
+09) Horus               - Heresy, Evil, Jelousy, Pride
+10) The Despoiler       - Theft+
+11) Nurgle              - Disease
+12) Khorne              - Blood and Bone, Pain
+13) Tzeentch            - Lies, Doubt
+14) Slanesh             - Indulgence
+15) Greenskin Horde     - Cunning / Brutal
+16) Eldar Menace        - Deadly
+17) Necrontyr           - Endurance, Solitude, Buried
+18) The Tau             - Emergent Knowledge
+
+19) Lion El'Johnson     - Courage
+20) Jaghatai Khan       - Haste
+21) Leman Russ          - Ferocity
+22) Rogal Dorn          - Protection, Decisive, Judgmental
+23) Sanguinius          - Forsight
+24) Ferrus Manus        - Death, Stubborn
+25) Roboute Guilliman   - Resolute
+26) Vulkan              - Rebirth, Progress, Knowledge
+27) Corax               - Resourcefull
+
+28) Fulgrim             - Murder
+29) Perturabo           - Destruction
+30) Konrad Curze        - Terror
+31) Angron              - Rage, Hasty
+32) Mortarion           - Sickness
+33) Magnus              - Hubris, Immaturity, Warp Power
+34) Lorgar              - Deceit
+35) Alpharius Omegon    - Devious
+
+36) Chainsword          - War
+---------------------------------------------
+[Minoris Personae]
+37) Space Marine        - Duty
+38) Rogue Trader        - Opportunity
+39) Tech Priest         - Ritual
+40) Cardinal            - Faith, Alliance, Servitude
+41) Administrator       - Upkeep, Economy, Moderation
+42) Inquisitor          - Curiosity, Judgement
+43) Astropath           - Communication
+44) Navigator           - Travel
+45) Psyker              - Sight
+46) Guardsman           - Bravery
+47) Ship Mistress       - Determined
+48) Lovers              - Attraction Love, Beauty, Temtation
+49) Servitor            - Obedience
+50) Hive Ganger         - Fool
+51) Mutants             - Cursed
+52) Cultist             - Deviant
+---------------------------------------------
+[Omen Eventum]
+53) Unification Wars                - Glory
+54) Great Crusade / Black Crusade   - Celebration / Disaster
+55) Horus Heresy / Scouring         - Corruption, Cleansing
+56) First Founding                  - Growth
+57) Beast / Apostacy / Waining      - Various Dangers??
+58) Indomitus                       - Hope, Perseverence, Renewal
+59) Eye of Terror / Great Rift      - Collapse / Anarchy
+---------------------------------------------
+[Omen Machina]
+60) Webway                          - Difficulty / Intricate
+61) Golden Throne                   - Good Fortune
+62) Astronomicon                    - Light, Connection
+63) Ring of Iron                    - Industry, Hardwork
+64) Borsis the World Engine         - Destruction, Great Sacrifice
+65) Blackstone Fortress             - Unforseen Consequences
+66) Vengeful Spirit                 - Bad Fortune
+67) The Furious Abyss               - Damned if you do
+68) The Phalanx                     - Strength, Success
+69) Space Hulk                      - Maze, Uncertain Fate
+70) Ullanor / Armageddon            - Maximum Dakka, Disruption
+---------------------------------------------
+[Omen Locus]
+71) Galaxy                          - Enlightenment, Conciousness, Contentment
+72) Star           (TwinkleTwinkle) - Inspiration, Prospects
+73) Sol            (Sun)            - Happyness, Vitality, Success
+74) Luna           (Moon)           - Silence, Error, Occult, Hidden
+75) Holy Terra     (Hive World    ) - Humanity
+76) Mars           (Forge World   ) - Machine
+77) Eden           (Paradise World) - Calm, Tranquility
+78) Tanith         (Agri World    ) - Abundance, Variety
+79) Cadia          (Fortress World) - Defense
+80) Highrock       (Knight World  ) - Honour
+81) Catachan       (Death World   ) - Danger
+82) Funerus        (Cemetery World) - Ancestor, Obligation
+83) Cracked Planet (Dead World)     - Sundered
+84) Infernus       (Daemon World)   - Torture 
+85) Istvan III     (Barren World)   - Atrocity, Betrayel
+86) El Dorado      (Lost World)     - Wonder, Riches
+87) STC            (Lost World)     - Grail, Discovery
+88) Supernova                       - Absolute Annihilation
+---------------------------------------------
+
+

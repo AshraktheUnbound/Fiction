@@ -2,6 +2,7 @@ Codex, Codices
 Grimoires, Spell Book
 Treatise
 Tablet
+Herbal
 Corpus
 Leechbooks
 incantation bowls
@@ -10,6 +11,7 @@ coffin texts
 True Name
 Words of Power
 Magic Circles
+Locks, Barriers, Shields
 
 Occult (Knowledge)
     Sigils, Linguistics, Runes
@@ -50,10 +52,19 @@ Linguistics
 
 
 (Important Mages of the Past)
-Ashrak the Unbound
-Solomon Seals-Sigils-Keys
+Zosimos of Panopolis
+Pseudo-Democritus
 Hermes Trismegistus
+Bolus of Mendes
+Theophrastus
+Stephanus of Alexandria
+Mesue Maior
+Abū Mūsā Jābir ibn Ḥayyān
+Ashrak the Unbound
+
+Solomon Seals-Sigils-Keys
 Zoroaster
+
 
 How to create talismans
 how to create spells, charms and divination
@@ -87,9 +98,9 @@ Picatrix  (The goal of the wise)
 	 Picatrix is a composite work that synthesizes older works on magic and astrology. One of the most influential interpretations suggests it is to be regarded as a "handbook of talismanic magic".[4] Another researcher summarizes it as "the most thorough exposition of celestial magic in Arabic", indicating the sources for the work as "Arabic texts on Hermeticism, Sabianism, Ismailism, astrology, alchemy and magic produced in the Near East in the ninth and tenth centuries A.D."
 
 Grand Grimoire (Red Dragon)
-    The "introductory chapter" was authored by someone named Antonio Venitiana del Rabina who supposedly gathered his information from original writings of King Solomon. Much of material of this grimoire derives from the Key of Solomon and the Lesser Key of Solomon, pseudepigraphical grimoires attributed to King Solomon.
+    Much of material of this grimoire derives from the Key of Solomon and the Lesser Key of Solomon, pseudepigraphical grimoires attributed to King Solomon.
 
-    The work is divided into two books.[2] The first book contains instructions for summoning a demon and for the construction of tools with which to force the demon to do one's bidding. The second book is divided further into two parts: the Sanctum Regnum and Secrets, de L'Art Magique du Grand Grimoire ("Secrets, of the magic art of the Grand Grimoire"). The Sanctum Regnum contain instructions for making a pact with the demon, allowing one to command the spirit without the tools required by book one, but at greater risk. Secrets contains simple spells and rituals one can employ after having performed the ritual of the first book. Some editions contain a short text between these two parts, Le Secret Magique, où le Grand Art de pouvoir parler aux Morts (The Magic Secret, or the Grand Art of being able to speaking with the dead), dealing with necromancy.
+    The work is divided into two books. The first book contains instructions for summoning a demon and for the construction of tools with which to force the demon to do one's bidding. The second book is divided further into two parts: the Sanctum Regnum and Secrets, de L'Art Magique du Grand Grimoire ("Secrets, of the magic art of the Grand Grimoire"). The Sanctum Regnum contain instructions for making a pact with the demon, allowing one to command the spirit without the tools required by book one, but at greater risk. Secrets contains simple spells and rituals one can employ after having performed the ritual of the first book.
 
 
 Callimachus' system divided works into six genres and five sections of prose: rhetoric, law, epic, tragedy, comedy, lyric poetry, history, medicine, mathematics, natural science, and miscellanies. Each category was alphabetized by author.

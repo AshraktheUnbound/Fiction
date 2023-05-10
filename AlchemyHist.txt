@@ -13,35 +13,92 @@ The Fourth Ascension
 	
 Zozimos of Panopolis
 	 The treatises of Zosimos of Panopolis, the earliest historically attested author (fl. c. 300 AD), can help in situating the other authors. Zosimus based his work on that of older alchemical authors, such as Mary the Jewess, Pseudo-Democritus, and Agathodaimon, but very little is known about any of these authors. The most complete of their works, The Four Books of Pseudo-Democritus, were probably written in the first century AD.
+	 https://en.wikipedia.org/wiki/Zosimos_of_Panopolis
 
 Hermes Trismegistus
-	 The Hermetica of Thrice-Great Hermes is generally understood to form the basis for Western alchemical philosophy and practice, called the hermetic philosophy by its early practitioners. These writings were collected in the first centuries of the common era. 
+	 The Hermetica of Thrice-Great Hermes is generally understood to form the basis for Western alchemical philosophy and practice, called the hermetic philosophy by its early practitioners. These writings were collected in the first centuries of the common era.
+	 https://en.wikipedia.org/wiki/Hermes_Trismegistus
 	 
 Diocletian
 	 The dawn of Western alchemy is sometimes associated with that of metallurgy, extending back to 3500 BC. Many writings were lost when the Roman emperor Diocletian ordered the burning of alchemical books after suppressing a revolt in Alexandria (AD 292). Few original Egyptian documents on alchemy have survived, most notable among them the Stockholm papyrus and the Leyden papyrus X. Dating from AD 250–300, they contained recipes for dyeing and making artificial gemstones, cleaning and fabricating pearls, and manufacturing of imitation gold and silver.[citation needed] These writings lack the mystical, philosophical elements of alchemy, but do contain the works of Bolus of Mendes (or Pseudo-Democritus), which aligned these recipes with theoretical knowledge of astrology and the classical elements. Between the time of Bolus and Zosimos, the change took place that transformed this metallurgy into a Hermetic art.
 
 Pseudo-Democritus 
 	The name used by scholars for the anonymous authors of a number of Greek writings that were falsely attributed to the pre-Socratic philosopher Democritus (c. 460–370 BC). 
-	Several of these writings, most notably the lost works On Sympathies and Antipathies and Artificial Substances (Greek: Cheirokmēta), were probably written by the Pythagorean physician and pharmacologist Bolos of Mendes (fl. 3rd or 2d century BC).[1] 
+	Several of these writings, most notably the lost works On Sympathies and Antipathies and Artificial Substances (Greek: Cheirokmēta), were probably written by the Pythagorean physician and pharmacologist Bolos of Mendes (fl. 3rd or 2d century BC).[1]
+	https://en.wikipedia.org/wiki/Democritus
 
 Bolus of Mendes 
-	 A philosopher, a neopythagorean writer of works of esoterica and medicine, in Ptolemaic Egypt. He is described as one who wrote on marvels, potent remedies, and astronomical phenomena. The Suda, however, also describes a separate Bolus who was a philosopher of the school of Democritus,[6] who wrote Inquiry, and Medical Art, containing "natural medical remedies from some resources of nature." However, from a passage of Columella,[7] it appears that Bolos of Mendes and this other Bolus, follower of Democritus, were one and the same person.[5] He seems to have lived following the time of Theophrastus, whose work Historia Plantarum ('On Plants'), Bolus appears to have known.[8]
+	 A philosopher, a neopythagorean writer of works of esoterica and medicine, in Ptolemaic Egypt. He is described as one who wrote on marvels, potent remedies, and astronomical phenomena. The Suda, however, also describes a separate Bolus who was a philosopher of the school of Democritus, who wrote Inquiry, and Medical Art, containing "natural medical remedies from some resources of nature." However, from a passage of Columella, it appears that Bolos of Mendes and this other Bolus, follower of Democritus, were one and the same person. He seems to have lived following the time of Theophrastus, whose work Historia Plantarum ('On Plants'), Bolus appears to have known. Bolus was either an ancient Greek[9][10] or a Hellenized Egyptian.
+	 https://en.wikipedia.org/wiki/Bolus_of_Mendes
 
-Bolus was either an ancient Greek[9][10] or a Hellenized Egyptian.[11][12] 
-	 
+Theophrastus
+    A Greek philosopher and the successor to Aristotle in the Peripatetic school. He was a native of Eresos in Lesbos. His interests were wide ranging, including biology, physics, ethics and metaphysics. His two surviving botanical works, Enquiry into Plants (Historia Plantarum) and On the Causes of Plants, were an important influence on Renaissance science. There are also surviving works On Moral Characters, On Sense Perception, and On Stones, as well as fragments on Physics and Metaphysics. In philosophy, he studied grammar and language and continued Aristotle's work on logic. He also regarded space as the mere arrangement and position of bodies, time as an accident of motion, and motion as a necessary consequence of all activity.
+    https://en.wikipedia.org/wiki/Theophrastus
+Stephanus of Alexandria (fl. c. 580 – c. 640)
+    A Byzantine philosopher and teacher who, besides philosophy in the Neo-Platonic tradition, also wrote on alchemy, astrology and astronomy. He was one of the last exponents of the Alexandrian academic tradition before the Islamic conquest of Egypt.
+    https://en.wikipedia.org/wiki/Stephanus_of_Alexandria
+Mesue Maior (Masawaiyh, 777–857)
+    In his Opera Medicinalia, synthesised the knowledge of Greeks, Persians, Arabs, Indians and Babylonians, this work was complemented by the medical encyclopaedia of Avicenna (Ibn Sina, 980–1037). Avicenna's Canon of Medicine was used for centuries in both East and West.
+
+Abū Mūsā Jābir ibn Ḥayyān  died c. 806−816
+    The purported author of an enormous number and variety of works in Arabic, called the Jabirian corpus. The works that survive today mainly deal with alchemy and chemistry, magic, and Shi'ite religious philosophy. However, the original scope of the corpus was vast and diverse, covering a wide range of topics ranging from cosmology, astronomy and astrology, over medicine, pharmacology, zoology and botany, to metaphysics, logic, and grammar.
+
+    A significant part of Jabir's writings were informed by a philosophical theory known as "the science of the balance", which was aimed at reducing all phenomena (including material substances and their elements) to a system of measures and quantitative proportions.
+
+    Thus, Jabir theorized, by rearranging the qualities of one metal, a different metal would result.[53] By this reasoning, the search for the philosopher's stone was introduced to Western alchemy. Jabir developed an elaborate numerology whereby the root letters of a substance's name in Arabic, when treated with various transformations, held correspondences to the element's physical properties.
+
+    The elemental system used in medieval alchemy also originated with Jabir. His original system consisted of eight elements, which included the five classical elements (aether, air, earth, fire, and water) three metals: sulphur giving flammability or combustion, mercury giving volatility and stability, and salt giving solidity.
+    https://en.wikipedia.org/wiki/Jabir_ibn_Hayyan
 	 
 Four Books
+    The original alchemical works attributed to Democritus, known as the Four Books, are now lost. However, several epitomized extracts of them survive in two extant treatises called Natural and Secret Questions (Greek: Physika kai Mystika) and On the Making of Silver (Greek: Peri asēmou poiēseōs), as well as in a collection of lists of alchemical substances called Catalogues (Greek: Katalogoi). The original books dealt with a wide range of topics, including the transmutation of base metals into silver or gold, the artificial production of precious stones, and the purple-dyeing of wool, all of which are subjects also covered in the Stockholm and Leyden papyri (3rd century AD). However, the preserved parts focus more strongly on the production of silver and gold, thus reflecting the main interests of later Greek alchemists.
 
-The original alchemical works attributed to Democritus, known as the Four Books, are now lost.[4] However, several epitomized extracts of them survive in two extant treatises called Natural and Secret Questions (Greek: Physika kai Mystika) and On the Making of Silver (Greek: Peri asēmou poiēseōs), as well as in a collection of lists of alchemical substances called Catalogues (Greek: Katalogoi).[5] The original books dealt with a wide range of topics, including the transmutation of base metals into silver or gold, the artificial production of precious stones, and the purple-dyeing of wool, all of which are subjects also covered in the Stockholm and Leyden papyri (3rd century AD). However, the preserved parts focus more strongly on the production of silver and gold, thus reflecting the main interests of later Greek alchemists.[6]
-
-The original works were probably four books on dyeing: one on how to give base metals a yellow tinge (i.e., to 'dye' them gold), one on how to give base metals a white tinge (i.e., to 'dye' them silver), one on 'dyeing' stones (i.e., to create precious stones), and one on dyeing fabrics purple (using cheaper substitutes for the costly Tyrian purple).[7] 
+    The original works were probably four books on dyeing: one on how to give base metals a yellow tinge (i.e., to 'dye' them gold), one on how to give base metals a white tinge (i.e., to 'dye' them silver), one on 'dyeing' stones (i.e., to create precious stones), and one on dyeing fabrics purple (using cheaper substitutes for the costly Tyrian purple).
 	 
-The Four Books are some of the most ancient works known in Western alchemy, and played a central role in its earliest development. They were frequently cited by alchemists such as Zosimos of Panopolis (fl. c. 300 AD) and Synesius (c. 373–414 AD), as well as by later Byzantine writers such as pseudo-Olympiodorus, Stephanus, Christianus, and 'the philosopher Anonymous'.[8] Their authority among later Greek alchemists was such that the latter often presented their own theories and practices as an interpretation of the Four Books.[9]
+    The Four Books are some of the most ancient works known in Western alchemy, and played a central role in its earliest development. They were frequently cited by alchemists such as Zosimos of Panopolis (fl. c. 300 AD) and Synesius (c. 373–414 AD), as well as by later Byzantine writers such as pseudo-Olympiodorus, Stephanus, Christianus, and 'the philosopher Anonymous'. Their authority among later Greek alchemists was such that the latter often presented their own theories and practices as an interpretation of the Four Books.
 
-Some Greek alchemists also wrote commentaries on the Four Books. One such commentary, called Democritean Commentaries and written by the alchemist Petasius, is now lost. However, another commentary, called The Philosopher Synesius to Dioscorus: Notes on Democritus' Book, is still extant.[10] 
+    Some Greek alchemists also wrote commentaries on the Four Books. One such commentary, called Democritean Commentaries and written by the alchemist Petasius, is now lost. However, another commentary, called The Philosopher Synesius to Dioscorus: Notes on Democritus' Book, is still extant.[10]
 
-https://en.wikipedia.org/wiki/Theophrastus
-https://en.wikipedia.org/wiki/Historia_Plantarum_(Theophrastus_book)
-https://en.wikipedia.org/wiki/Democritus
+
+The Suda or Souda
+    A large 10th-century Byzantine encyclopedia of the ancient Mediterranean world, formerly attributed to an author called Soudas (Σούδας) or Souidas (Σουίδας). It is an encyclopedic lexicon, written in Greek, with 30,000 entries, many drawing from ancient sources that have since been lost, and often derived from medieval Christian compilers.
+    Lost scholia
+
+    The lexicon copiously draws from scholia to the classics (Homer, Aristophanes, Thucydides, Sophocles, etc.), and for later writers, Polybius, Josephus, the Chronicon Paschale, George Syncellus, George Hamartolus, and so on. The Suda quotes or paraphrases these sources at length. Since many of the originals are lost, the Suda serves as an invaluable repository of literary history, and this preservation of the "literary history" is more vital than the lexicographical compilation itself, by some estimation.
+    https://en.wikipedia.org/wiki/Suda
+
+Historia Planterum
+    The Chicago Botanic Garden describes Historia Plantarum as the "first great botanical work" of Theophrastus, "the first real botanist"; it states of the 1483 edition printed by Bartolomeo Confalonieri in Treviso that "all taxonomy of plants starts with this modest book", centuries before the modern taxonomy of Linnaeus.[19] Anna Pavord observes in her 2005 book The Naming of Names that Theophrastus made the first ever classification of plants, and Pliny the Elder, now much better known, used much of his material.[20]
+    https://en.wikipedia.org/wiki/Historia_Plantarum_(Theophrastus_book)
+
+The Ebers Papyrus
+    An Egyptian medical papyrus of herbal knowledge dating to c.1550 BCE (the late Second Intermediate Period or early New Kingdom). Among the oldest and most important medical papyri of Ancient Egypt, it was purchased at Luxor in the winter of 1873–1874 by the German Egyptologist Georg Ebers. It is currently kept at the Leipzig University Library in Germany.
+    https://en.wikipedia.org/wiki/Ebers_Papyrus
+
+De materia medica ("On Medical Material")
+    A pharmacopoeia of medicinal plants and the medicines that can be obtained from them. The five-volume work was written between 50 and 70 CE by Pedanius Dioscorides, a Greek physician in the Roman army. It was widely read for more than 1,500 years until supplanted by revised herbals in the Renaissance, making it one of the longest-lasting of all natural history and pharmacology books.
+    https://en.wikipedia.org/wiki/De_materia_medica
+
+The Natural History (Latin: Naturalis Historia)
+    A work by Pliny the Elder. The largest single work to have survived from the Roman Empire to the modern day, the Natural History compiles information gleaned from other ancient authors. It is encyclopedic in scope, but its structure is not like that of a modern encyclopedia. It is the only work by Pliny to have survived, and the last that he published. He published the first 10 books in AD 77, but had not made a final revision of the remainder at the time of his death during the AD 79 eruption of Vesuvius. The rest was published posthumously by Pliny's nephew, Pliny the Younger.
+
+    The work is divided into 37 books, organised into 10 volumes. These cover topics including astronomy, mathematics, geography, ethnography, anthropology, human physiology, zoology, botany, agriculture, horticulture, pharmacology, mining, mineralogy, sculpture, art, and precious stones.
+
+    Pliny's Natural History became a model for later encyclopedias and scholarly works as a result of its breadth of subject matter, its referencing of original authors, and its index.
+
+The Canon of Medicine
+    An encyclopedia of medicine in five books compiled by Persian physician-philosopher Avicenna and completed in 1025.Perhaps one of the most famous and influential early books, that continued to influence later creations. It presents an overview of the contemporary medical knowledge of the Islamic world, which had been influenced by earlier traditions including Greco-Roman medicine (particularly Galen), Persian medicine, Chinese medicine and Indian medicine.
+
+    The Canon of Medicine remained a medical authority for centuries. It set the standards for medicine in Medieval Europe and the Islamic world and was used as a standard medical textbook through the 18th century in Europe.
+    https://en.wikipedia.org/wiki/The_Canon_of_Medicine
+
+Liber de Compositione Alchemiae ("Book of the Composition of Alchemy")
+    A work on alchemy falsely attributed to the Umayyad prince Khalid ibn Yazid (c.668 – c.704). It is generally considered to be the first Latin translation of an Arabic work on alchemy into Latin, completed on 11 February 1144 by the English Arabist Robert of Chester.
+
+    The work takes the form of a dialogue between Khalid ibn Yazid and his purported alchemical master, the Byzantine monk Morienus, himself supposedly a pupil of the philosopher Stephanus of Alexandria (fl.early seventh century). Widely popular among later alchemists, the work is extant in many manuscripts and has been printed and translated into vernacular languages several times since the sixteenth century.
+    https://en.wikipedia.org/wiki/Liber_de_compositione_alchemiae
+
+
+
 https://en.wikipedia.org/wiki/Hermeticism
 https://en.wikipedia.org/wiki/Alchemy
